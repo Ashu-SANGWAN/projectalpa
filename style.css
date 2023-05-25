@@ -1,0 +1,236 @@
+body {
+  background-color: aliceblue;
+}
+
+.text {
+  position: relative;
+  top: 74px;
+  left: 0px;
+  width: 616px;
+}
+.toptxt {
+  position: relative;
+  top: -35px;
+}
+.pair {
+  font: normal normal 300 34px/41px Aktifo A;
+  position: relative;
+  top: -60px;
+  color: rgba(41, 41, 41, 1);
+}
+.colr {
+  border-radius: 50%;
+  background-color: white;
+}
+.class1 {
+  background-image: url(banner\ image\ copy.jpg);
+  height: 650px;
+  width: 1574px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  text-align: center;
+}
+.logo {
+  background-image: url(./Asset\ 3@4x-8.png);
+  height: 90px;
+  width: 264px;
+  z-index: 1;
+  display: block;
+  position: absolute;
+  top: 72px;
+  left: 104px;
+}
+.logo2 {
+  display: flex;
+  margin-left: 123px;
+  gap: 56px;
+  padding-top: 545px;
+}
+.loga {
+  background-color: black;
+  height: 73px;
+  width: 70px;
+  padding-top: 16px;
+  padding-left: 22px;
+  border-radius: 50%;
+}
+.logoa {
+  background-image: url(./Group\ 194@2x.png);
+  height: 59px;
+  width: 55px;
+  display: block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+.logob {
+  background-image: url(./Group\ 195.png);
+  height: 55px;
+  width: 48px;
+  display: block;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.logoc {
+  background-image: url(./Asset\ 2ne@2x.png);
+  height: 60px;
+  width: 52px;
+  display: block;
+  background-color: black;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.class2 {
+  background-image: url(./back.jpg);
+  height: 650px;
+  width: 1574px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  padding: 84px;
+  box-sizing: border-box;
+  line-height: 34px;
+}
+p {
+  color: rgba(19, 19, 19, 1);
+}
+li {
+  color: rgba(19, 19, 19, 1);
+}
+.class3 {
+  display: flex;
+  background-color: rgba(229, 229, 229, 1);
+}
+.clas3 {
+  background-image: url(./image3.jpg);
+  height: 715px;
+  width: 574px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: black;
+  text-align: center;
+}
+.class_side3 {
+  background-color: rgba(229, 229, 229, 1);
+}
+.achiv {
+  background-image: url(./pic1.jpg);
+  height: 59px;
+  width: 55px;
+  display: block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 1;
+  position: relative;
+  left: -45px;
+  top: 16px;
+}
+.achiv2 {
+  background-image: url(./img2.jpg);
+  height: 59px;
+  width: 55px;
+  display: block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 1;
+  position: relative;
+  left: -45px;
+  top: 16px;
+}
+.achiv3 {
+  background-image: url(./img3.jpg);
+  height: 59px;
+  width: 55px;
+  display: block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 1;
+  position: relative;
+  left: -45px;
+  top: 16px;
+}
+.achiv4 {
+  background-image: url(./img4.jpg);
+  height: 59px;
+  width: 55px;
+  display: block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 1;
+  position: relative;
+  left: -45px;
+  top: 16px;
+}
+.btn {
+  top: -40px;
+}
+#button {
+  background-color: rgba(242, 102, 33, 1);
+  width: 224px;
+  height: 47px;
+  border-radius: 10px;
+  border: rgba(242, 102, 33, 1);
+  color: white;
+  position: relative;
+  left: 50px;
+  font-size: 22px;
+}
+.heading1 {
+  position: relative;
+  left: 45px;
+  top: -68px;
+}
+.heading2 {
+  position: relative;
+  left: 45px;
+  top: -68px;
+}
+.heading3 {
+  position: relative;
+  left: 45px;
+  top: -68px;
+}
+.heading4 {
+  position: relative;
+  left: 45px;
+  top: -68px;
+}
+.bottom {
+  background-color: rgba(26, 26, 26, 1);
+  height: 180px;
+  color: white;
+  display: flex;
+  gap: 170px;
+  padding: 22px;
+}
+.img {
+  background-image: url(./Asset\ 3@4x-8.png);
+  filter: invert(98%) sepia(13%) saturate(1%) hue-rotate(271deg)
+    brightness(116%) contrast(100%);
+  height: 90px;
+  width: 260px;
+  display: block;
+  top: 30px;
+  left: 60px;
+  position: relative;
+}
+.form {
+  border: 2px solid white;
+  width: 385px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 21px;
+  position: sticky;
+  bottom: -15px;
+  left: 820px;
+}
+form {
+  display: flex;
+
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 400px;
+  gap: 10px;
+}
