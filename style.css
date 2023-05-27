@@ -10,12 +10,16 @@ body {
 }
 .toptxt {
   position: relative;
-  top: -35px;
+  top: -18px;
+  font-size: 39px;
+  width: 521px;
+  text-align: left;
 }
 .pair {
   font: normal normal 300 34px/41px Aktifo A;
   position: relative;
-  top: -60px;
+  top: -22px;
+  left: -49px;
   color: rgba(41, 41, 41, 1);
 }
 .colr {
@@ -24,7 +28,7 @@ body {
 }
 .class1 {
   background-image: url(banner\ image\ copy.jpg);
-  height: 650px;
+  height: 750px;
   width: 1574px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -40,6 +44,11 @@ body {
   position: absolute;
   top: 72px;
   left: 104px;
+}
+#logotext {
+  position: relative;
+  left: -25px;
+  width: 103px;
 }
 .logo2 {
   display: flex;
@@ -62,14 +71,13 @@ body {
   display: block;
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: black;
 }
 .logob {
   background-image: url(./Group\ 195.png);
   height: 55px;
   width: 48px;
   display: block;
-  background-color: black;
+
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -78,7 +86,7 @@ body {
   height: 60px;
   width: 52px;
   display: block;
-  background-color: black;
+
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -93,11 +101,14 @@ body {
   box-sizing: border-box;
   line-height: 34px;
 }
+.heading {
+  font-size: 37px;
+}
 p {
-  color: rgba(19, 19, 19, 1);
+  color: #515151;
 }
 li {
-  color: rgba(19, 19, 19, 1);
+  color: #515151;
 }
 .class3 {
   display: flex;
@@ -114,6 +125,7 @@ li {
 }
 .class_side3 {
   background-color: rgba(229, 229, 229, 1);
+  width: 600px;
 }
 .achiv {
   background-image: url(./pic1.jpg);
@@ -228,7 +240,6 @@ li {
 }
 form {
   display: flex;
-
   flex-wrap: wrap;
   flex-direction: row;
   width: 400px;
