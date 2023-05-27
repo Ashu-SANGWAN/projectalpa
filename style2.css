@@ -1,0 +1,191 @@
+@media (min-width: 430px) and (max-width: 932px) {
+  .class1 {
+    background-image: url(./Mask\ Group\ 2.jpg);
+    height: 760px;
+    width: 739px;
+    background-size: contain;
+  }
+
+  .text {
+    top: -247px;
+    left: 0px;
+  }
+  .logo {
+    width: 192px;
+    top: 27px;
+    left: 66px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 356px;
+  }
+  .toptxt {
+    position: relative;
+    top: -35px;
+    left: -31px;
+    display: flex;
+    font-size: 26px;
+    width: 345px;
+    text-align: left;
+    font: small;
+  }
+  .logo2 {
+    padding-top: 316px;
+    margin-left: 37px;
+    gap: 21px;
+  }
+
+  .pair {
+    top: -59px;
+    left: -31px;
+    font-size: 25px;
+    text-align: left;
+    width: 353px;
+  }
+  .loga {
+    height: 41px;
+    width: 40px;
+    display: block;
+    padding-top: 6px;
+    padding-left: 13px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .logoa {
+    height: 35px;
+    width: 42px;
+    background-size: contain;
+    padding-top: 3px;
+    padding-left: 0px;
+  }
+  .logob {
+    height: 35px;
+    width: 42px;
+    background-size: contain;
+    padding-top: 3px;
+    padding-left: 0px;
+  }
+  .logoc {
+    height: 35px;
+    width: 42px;
+    background-size: contain;
+    padding-top: 3px;
+    padding-left: 0px;
+    margin-bottom: 17px;
+  }
+  #gloss {
+    padding-left: 9px;
+    height: 43px;
+    width: 43px;
+  }
+  #logotext {
+    left: -28px;
+    width: 91px;
+    font-size: 12px;
+  }
+  .class2 {
+    background-image: url(./Mask\ Group\ 1.jpg);
+    height: 731px;
+    background-size: contain;
+    padding-left: 15px;
+    padding-top: 16px;
+    margin-top: 345px;
+  }
+  .list {
+    padding-left: 15px;
+    font-size: 13px;
+  }
+  .heading {
+    font-size: 30px;
+  }
+  p {
+    font-size: 18px;
+    width: 395px;
+    line-height: 26px;
+  }
+  .heading1 {
+    left: 8px;
+    top: -3px;
+  }
+  .heading2 {
+    left: 8px;
+    top: -3px;
+  }
+  .heading3 {
+    left: 8px;
+    top: -3px;
+  }
+  .heading4 {
+    left: 8px;
+    top: -3px;
+  }
+  .achiv {
+    left: 12px;
+    top: -4px;
+  }
+  .achiv2 {
+    left: 12px;
+    top: -4px;
+  }
+  .achiv3 {
+    left: 12px;
+    top: 8px;
+  }
+  .achiv4 {
+    left: 12px;
+    top: -4px;
+  }
+  .class3 {
+    flex-direction: column-reverse;
+    height: 1421px;
+  }
+  .class_side3 {
+    width: 394px;
+    padding: 13px;
+  }
+  .btn {
+    top: 1px;
+  }
+  .clas3 {
+    background-image: url(./last.jpg);
+    background-size: auto;
+  }
+  .img {
+    background-repeat: no-repeat;
+    background-size: contain;
+    overflow: hidden;
+    height: 67px;
+    left: 4px;
+    top: 110px;
+  }
+  .btm {
+    position: absolute;
+    font-size: 13px;
+  }
+  .btm3 {
+    width: 697px;
+    position: relative;
+    left: -222px;
+    top: 7px;
+    font-size: 11px;
+  }
+  .btm4 {
+    width: 200px;
+    position: relative;
+    left: -530px;
+    top: 89px;
+    font-size: 13px;
+  }
+  .last3 {
+    font-size: 10px;
+    width: 138px;
+  }
+  .hide {
+    display: none;
+  }
+  .form {
+    bottom: 1307px;
+    position: fixed;
+    z-index: 1;
+    left: 0px;
+  }
+}
